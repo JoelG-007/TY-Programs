@@ -4,6 +4,7 @@ This repository is a collection of my **Third Year BSc Computer Science (TYBSc C
 It includes work from multiple core subjects such as **Java, Fundamentals of Data Science, Operating Systems, and Web Technologies (PHP).**
 -------------------------------------------------
 ## 📂 Repository Structure
+**Sem 5 =>**
 - **Java** → Simple java programs, Array of Objects and Packages, Inheritance and Interfaces, Exception And File Handling, GUI Designing, Event Handling
 - **Fundamentals of Data Science (Python)** → Data preprocessing, visualization, statistics, ML basics
 - **Operating Systems (OS)** → Creating a Child(subprocess), Simulation of OS Shell, Simulation of CPU scheduling, Simulation of demand paging using memory page replacement
