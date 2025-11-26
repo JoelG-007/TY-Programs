@@ -1,0 +1,16 @@
+/*
+a)  Using javap, view the methods of the following classes from the lang package: 
+    java.lang.Object , java.lang.String and java.util.Scanner. and also Compile sample 
+    program 8. Type the following command and view the bytecodes. javap -c MyClass.
+*/
+
+// javap is the Java Class File Disassembler. It shows methods and bytecodes of compiled classes.
+
+javap java.lang.Object
+javap java.lang.String
+javap java.util.Scanner
+
+// To see bytecode of your own class (MyClass.java):
+
+javac MyClass.java
+javap -c MyClass

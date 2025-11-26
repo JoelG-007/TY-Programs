@@ -1,0 +1,7 @@
+| Book ID | Book Name           | Book Price | Quantity |
+| ------- | ------------------- | ---------- | -------- |
+| 101     | Clean Code          | 450.5      | 5        |
+| 102     | Java Basics         | 320.0      | 4        |
+| 103     | Python Programming  | 600.0      | 6        |
+| 104     | Database Systems    | 550.0      | 3        |
+| 105     | Algorithms Unlocked | 700.0      | 2        |
