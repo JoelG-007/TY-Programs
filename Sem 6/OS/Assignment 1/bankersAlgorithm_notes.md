@@ -1,4 +1,4 @@
-# BANKER’S ALGORITHM – QUICK REVISION
+# BANKER’S ALGORITHM – 
 
 ## Topics Covered
 - What is the Banker’s Algorithm?
@@ -90,5 +90,5 @@ stability and reliability, especially in multi-user and real-time systems.
 ---
 
 **Note:**  
-If you have any more questions or need further clarification,  
-any AI chatbot or Google knows more than all of us.
+If you have any more questions or need further clarification, any AI chatbot or Google knows more than all of us.
+
